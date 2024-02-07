@@ -1,0 +1,15 @@
+/Users/fatimagaykhanova/Projects/CSharpIntroTasks/CSharpIntroTasks/bin/Debug/net6.0/CSharpIntroTasks
+/Users/fatimagaykhanova/Projects/CSharpIntroTasks/CSharpIntroTasks/bin/Debug/net6.0/CSharpIntroTasks.deps.json
+/Users/fatimagaykhanova/Projects/CSharpIntroTasks/CSharpIntroTasks/bin/Debug/net6.0/CSharpIntroTasks.runtimeconfig.json
+/Users/fatimagaykhanova/Projects/CSharpIntroTasks/CSharpIntroTasks/bin/Debug/net6.0/CSharpIntroTasks.dll
+/Users/fatimagaykhanova/Projects/CSharpIntroTasks/CSharpIntroTasks/bin/Debug/net6.0/CSharpIntroTasks.pdb
+/Users/fatimagaykhanova/Projects/CSharpIntroTasks/CSharpIntroTasks/obj/Debug/net6.0/CSharpIntroTasks.csproj.AssemblyReference.cache
+/Users/fatimagaykhanova/Projects/CSharpIntroTasks/CSharpIntroTasks/obj/Debug/net6.0/CSharpIntroTasks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fatimagaykhanova/Projects/CSharpIntroTasks/CSharpIntroTasks/obj/Debug/net6.0/CSharpIntroTasks.AssemblyInfoInputs.cache
+/Users/fatimagaykhanova/Projects/CSharpIntroTasks/CSharpIntroTasks/obj/Debug/net6.0/CSharpIntroTasks.AssemblyInfo.cs
+/Users/fatimagaykhanova/Projects/CSharpIntroTasks/CSharpIntroTasks/obj/Debug/net6.0/CSharpIntroTasks.csproj.CoreCompileInputs.cache
+/Users/fatimagaykhanova/Projects/CSharpIntroTasks/CSharpIntroTasks/obj/Debug/net6.0/CSharpIntroTasks.dll
+/Users/fatimagaykhanova/Projects/CSharpIntroTasks/CSharpIntroTasks/obj/Debug/net6.0/refint/CSharpIntroTasks.dll
+/Users/fatimagaykhanova/Projects/CSharpIntroTasks/CSharpIntroTasks/obj/Debug/net6.0/CSharpIntroTasks.pdb
+/Users/fatimagaykhanova/Projects/CSharpIntroTasks/CSharpIntroTasks/obj/Debug/net6.0/CSharpIntroTasks.genruntimeconfig.cache
+/Users/fatimagaykhanova/Projects/CSharpIntroTasks/CSharpIntroTasks/obj/Debug/net6.0/ref/CSharpIntroTasks.dll
